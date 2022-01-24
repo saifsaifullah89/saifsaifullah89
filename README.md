@@ -10,7 +10,7 @@ Currently, I’m looking 😍 for a role as software developer either full time,
   SpringBoot,
   Angular,
   Docker,
-  Well equipped with hands-on practice of: AWS and Microservices Architecture,
+  Understanding of: AWS and Microservices Architecture,
   HTML5, CSS3, JS
   ```
   **Above List is always in Updating Mode:** 👍
